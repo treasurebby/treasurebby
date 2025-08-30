@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @treasurebby
-- 👀 I’m interested in cybersecurity
+- 👋 Hi, I’m Treasure
+- 👀 I’m interested in cybersecurity and DevOps
 - 🌱 I’m currently learning evrything i can
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me just text me

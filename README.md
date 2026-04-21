@@ -1,26 +1,19 @@
-# hi, i’m Treasure 👋🏽
+# Hi there, I’m Treasure 👋🏽
 
-i build **web apps** and design clean, fun interfaces.
+**Web Application Builder | DevOps (Cloud & CI/CD)**
 
-- building: **Clario** (career guidance platform)
-- shipping: **FoodieExpress** (mobile app)
-- polishing: **MyPortfolio**
+I build web applications and I’m learning to ship them reliably with DevOps—automation, deployments, and cloud infrastructure.
 
-## featured
-- **Clario** — career guidance web app for Nigerian senior secondary students (React + TypeScript + Vite + Tailwind)
-  - repo: https://github.com/treasurebby/Clario
+## What excites me most
+- Turning ideas into real, usable web products
+- Building APIs and full‑stack features that scale
+- Automating deployments with CI/CD and cloud tools
 
-- **FoodieExpress (Mobile App)** — food ordering mobile app built with Expo / React Native
-  - repo: https://github.com/treasurebby/FoodieExpress-mobile-app
+## Toolkit
+- **Web:** HTML, CSS, JavaScript, TypeScript, React
+- **Backend:** Node.js (and APIs)
+- **DevOps:** Linux, Git/GitHub, CI/CD, Docker (learning), AWS/Terraform (learning)
 
-- **MyPortfolio** — portfolio + CV
-  - repo: https://github.com/treasurebby/My-Portfolio
-
-## toolkit
-**Frontend:** HTML, CSS, JavaScript, React, TypeScript, Tailwind
-**Mobile:** React Native (Expo)
-**Design:** Figma, UI/UX
-
-## let’s connect
-- email: (add)
-- linkedin: (add)
+## Let’s connect
+- **Email:** ehiomhentreasureruth@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ehiomhen-treasure-889a4b298

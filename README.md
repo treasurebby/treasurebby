@@ -1,4 +1,4 @@
-# Hi there, I’m Treasure 
+# Hi there, I’m Treasure 👋🏽
 
 **Software Engineer | DevOps/ Cloud infrastructure)**
 
